@@ -1,0 +1,10 @@
+﻿  Lab1.cpp
+D:\Coding\C++\Lab1\Lab1\Lab1.cpp(115,33): warning C4244: +=: преобразование "float" в "LONG", возможна потеря данных
+D:\Coding\C++\Lab1\Lab1\Lab1.cpp(115,67): warning C4244: +=: преобразование "float" в "LONG", возможна потеря данных
+D:\Coding\C++\Lab1\Lab1\Lab1.cpp(126,20): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+D:\Coding\C++\Lab1\Lab1\Lab1.cpp(127,20): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+D:\Coding\C++\Lab1\Lab1\Lab1.cpp(181,17): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+D:\Coding\C++\Lab1\Lab1\Lab1.cpp(196,17): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+  Sprite.cpp
+  Создание кода...
+  Lab1.vcxproj -> D:\Coding\C++\Lab1\x64\Debug\Lab1.exe
